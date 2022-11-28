@@ -8,7 +8,7 @@
       "district": "Pituba",
       "city": "Salvador",
       "state": "BA",
-      "disponivel": "Não",
+      "disponivel": "Sim",
       "id": 13
     },
     {
@@ -41,7 +41,7 @@
       "district": "Cabula",
       "city": "Salvador",
       "state": "BA",
-      "disponivel": "Não",
+      "disponivel": "Sim",
       "id": 16
     }
   ],
@@ -52,7 +52,7 @@
       "ano": "2021",
       "diaria": "200",
       "categoria": "Hatch",
-      "disponivel": "Não",
+      "disponivel": "Sim",
       "id": 3
     },
     {
@@ -61,7 +61,7 @@
       "ano": "2021",
       "diaria": "300",
       "categoria": "Camionete",
-      "disponivel": "Não",
+      "disponivel": "Sim",
       "id": 4
     },
     {
@@ -84,29 +84,5 @@
     }
   ],
   "locacao": [
-    {
-      "id": 1,
-      "idCliente": 13,
-      "idCarro": 3,
-      "cliente": "Legolas",
-      "carro": "Hyunday/Hb 20/2021",
-      "qtdDias": 1,
-      "dtIni": "11/27/2022",
-      "dtFim": "",
-      "multa": "",
-      "total": 200
-    },
-    {
-      "id": 2,
-      "idCliente": 16,
-      "idCarro": 4,
-      "cliente": "Gandalf",
-      "carro": "Toyota/HILUX/2021",
-      "qtdDias": 2,
-      "dtIni": "11/27/2022",
-      "dtFim": "",
-      "multa": "",
-      "total": 600
-    }
   ]
 }
